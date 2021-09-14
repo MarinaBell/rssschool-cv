@@ -42,6 +42,6 @@ I have been working as an architect and a designer for 6 years. I desined exclus
 * CS50 Video Course (in progress)
 * Jet Brains Academy - Frontend Developer (in progress) 
 ## **Languages** ##
-* English - B1. 
+* English - B1 INTERMEDIATE/B2 UPPER INTERMEDIATE (according to the online test at [EFset](www.efset.org)). 
 I had language practice in Academy with the teacher from England and speaking practice during my journeys to Europe and Israel.
 * Russian - Native
