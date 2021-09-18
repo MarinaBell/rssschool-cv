@@ -30,6 +30,18 @@ I worked as an architect and a designer for 6 years. I desined exclusive exhibit
 * Adobe After Effects
 * 3Ds Max
 
+## **Code Example** ##
+```
+function getMiddle(str)
+{
+  if(str.length % 2 == 0) {
+       return(str[str.length / 2 - 1]+str[str.length /2])
+    }
+    else if(str.length % 2 == 1){
+    return(str[str.length / 2 - 0.5])
+    }
+}
+```
 ## **Education** ##
 * Samara State University of Architecture and Civil Engineering, Samara
   * Architecture
