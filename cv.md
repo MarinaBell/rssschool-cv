@@ -47,12 +47,14 @@ function getMiddle(str)
   * Architecture
 * Samara State Regional Academy of Nayanova
   * Professional communication translator
+
 ## **Courses** ##
 * HTML Academy (HTML and CSS and Javascript training simulators)
 * JavaScript Manual on learnjavascript.ru (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 * CS50 Video Course (in progress)
 * Jet Brains Academy - Frontend Developer (in progress) 
+
 ## **Languages** ##
 * English - B1 INTERMEDIATE/B2 UPPER INTERMEDIATE (according to the online test at www.efset.org). 
 I had language practice in Academy with the teacher from England and speaking practice during my journeys to Europe and Israel.
