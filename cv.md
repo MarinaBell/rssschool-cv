@@ -7,9 +7,9 @@ Github: [MarinaBell](https://github.com/MarinaBell)
 ## **About me** ##
 
 I'm 30 years old. I graduated from Samara State University of Architecture and Civil Engineering as an architect. \
-I worked as an architect and a designer for 6 years. I desined exclusive exhibition stands.\
+I worked as an architect and a designer for 6 years. I designed exclusive exhibition stands.\
 2 years ago I became interested in animation and motion design and I also developed the 3d-design and UI-design for interactive applications in museums.  
-6 months ago I started learning programming and layout. I want to gain knowledge in this spere. Now my goal is to become a Fromtend Developer.
+6 months ago I started learning programming and layout. I want to gain knowledge in this spere. Now my goal is to become a Frontend Developer.
 
  **My strengths:**
   * Fast learning
@@ -43,10 +43,8 @@ function getMiddle(str)
 }
 ```
 ## **Education** ##
-* Samara State University of Architecture and Civil Engineering, Samara
-  * Architecture
-* Samara State Regional Academy of Nayanova
-  * Professional communication translator
+* Samara State University of Architecture and Civil Engineering, Samara (Architect)
+* Samara State Regional Academy of Nayanova (Professional communication translator)
 
 ## **Courses** ##
 * HTML Academy (HTML and CSS and Javascript training simulators)
@@ -56,6 +54,6 @@ function getMiddle(str)
 * Jet Brains Academy - Frontend Developer (in progress) 
 
 ## **Languages** ##
-* English - B1 INTERMEDIATE/B2 UPPER INTERMEDIATE (according to the online test at www.efset.org). 
-I had language practice in Academy with the teacher from England and speaking practice during my journeys to Europe and Israel.
+* English - B1 INTERMEDIATE/B2 UPPER INTERMEDIATE (according to the online test at www.efset.org). \
+I had language practice in Academy with a teacher from England and speaking practice during my journeys to Europe and Israel.
 * Russian - Native
