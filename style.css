@@ -1,0 +1,61 @@
+body {
+background-color: rgb(20, 21, 48);
+font-size: 18px;
+color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+color:rgb(20, 21, 48)
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    
+  color: rgb(0, 123, 2558);
+
+}
+#topcontent .container {
+    
+    padding-top: 15px;
+}
+#topcontent {
+    margin-top: 70px;
+}
+.page-footer a {
+    position: relative;
+    margin-right: 64px;
+    padding-bottom: 10px;
+    padding-top: 9px;
+    font-weight: 300;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-position: left;
+    
+  }
+  .footer-email {
+    padding-left: 0px;
+    background-image: url("img/icon-email.svg");
+  }
+  .footer-phone {
+    padding-left: 0px;
+    background-image: url("img/icon-phone.svg");
+   
+  }
+  .page-footer a:focus,
+  .page-footer a:hover {
+    color: #f9dd79;
+  }
+  .page-footer a:after {
+    position: absolute;
+    content: "";
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: rgb(255,193,7);
+    transition: width 200ms;
+  }
+  
+  li {
+    padding-top: 20px
+      
+  }
+  
+  
